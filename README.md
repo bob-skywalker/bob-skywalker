@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently an enthusiast in JavaScript, React, Python, and web development
 - 💞️ I’m looking to collaborate on making technology accessible and building community feelings in tech
 - 👯 I’m looking to collaborate on open source
-- How to reach me: ...[instagram](https://www.linkedin.com/in/bo-zhong-bb4a4b13a/)
+- How to reach me: ...[LinkedIn](https://www.linkedin.com/in/bo-zhong-bb4a4b13a/)
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: Use to be a Full-Time Banker, self-taught DJ & EDM Musician 
 -->
 
-
+##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bob-skywalker)](https://github.com/anuraghazra/github-readme-stats)
