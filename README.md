@@ -5,7 +5,7 @@
 
 Here are some interesting facts about me:
 
-- 🔭 You can find my projects here <a href="https://github.com/bob-skywalker"> Portfolio </a>
+- 🔭 You can find my projects here <a href="https://bob-skywalker.github.io/portfolio/"> Portfolio </a>
 - 🌱 I’m currently an enthusiast in JavaScript, React, Python, and web development
 - 💞️ I’m looking to collaborate on making technology accessible and building community feelings in tech
 - 👯 I’m looking to collaborate on open source
