@@ -33,5 +33,4 @@ Here are some interesting facts about me:
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bob-skywalker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Bo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bob-skywalker)](https://github.com/anuraghazra/github-readme-stats)
 
