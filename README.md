@@ -1,36 +1,64 @@
-### Hello World, I'm Bo Zhong👋
+### Hi, I’m Bo Zhong 👋  
+Senior iOS Engineer • SwiftUI Architect • Mobile Systems Thinker
+
 ![coding-4-life](https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif)
-## I am a Software Developer, Gym Lover, EDM Music Producer!
 
+## 🚀 About Me
 
-Here are some interesting facts about me:
+I’m a Senior iOS Developer specializing in building scalable, production-grade iOS applications using modern Apple frameworks.
 
-- 🔭 You can find my projects here <a href="https://bob-skywalker.github.io/Portfolio-Page/"> Portfolio </a>
-- 🌱 I’m currently an enthusiast in JavaScript, React, Python, and web development
-- 💞️ I’m looking to collaborate on making technology accessible and building community feelings in tech
-- 👯 I’m looking to collaborate on open source
-- How to reach me: ...[LinkedIn](https://www.linkedin.com/in/bo-zhong-bb4a4b13a/)
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: Use to be a Full-Time Banker, self-taught DJ & EDM Musician 
--->
+I focus on:
 
-## Languages and Tools
+- Swift & SwiftUI architecture
+- Concurrency (async/await, actors)
+- Clean layered architecture (Data → Repository → Services)
+- Performance optimization & memory management
+- UIKit ↔ SwiftUI interoperability
+- Real-world shipping apps on the App Store
+
+I enjoy turning complex product requirements into elegant mobile experiences that feel native, fast, and intentional.
+
+---
+
+## 🛠 iOS Stack
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://i.postimg.cc/Wbxm9r0q/Untitled-design-1.png" alt="Ruby" height="40" style="vertical-align:top; margin:4px">
-<img src="https://i.postimg.cc/G2cmJcKS/ruby-on-rails-pdf.png" alt="Ruby on Rails" height="40" style="vertical-align:top; margin:4px">
-<img src="https://i.postimg.cc/J4n0y4YT/Untitled-design-3.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node JS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" height="40">
+<img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" height="40">
+<img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-96x96_2x.png" height="40">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" height="40">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="40">
 </p>
 
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bob-skywalker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Core Expertise**
+- Swift, SwiftUI, UIKit
+- Combine
+- Core Data / Realm
+- REST APIs & networking
+- MVVM & Clean Architecture
+- Dependency Injection
+- Unit & UI Testing
+- App Store deployment lifecycle
 
+---
+
+## 📱 Projects
+
+🔭 Portfolio: https://bob-skywalker.github.io/Portfolio-Page/  
+💼 LinkedIn: https://www.linkedin.com/in/bo-zhong-bb4a4b13a/
+
+---
+
+## 🧠 What I Care About
+
+- Writing maintainable, testable code
+- Building accessible mobile experiences
+- Designing APIs that feel obvious
+- Continuously leveling up as an engineer
+
+---
+
+## ⚡ Background
+
+Former banker turned self-taught developer.  
+Also a gym enthusiast and EDM producer — because architecture applies to music too.
