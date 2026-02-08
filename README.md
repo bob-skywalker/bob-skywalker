@@ -1,7 +1,11 @@
 ### Hi, I’m Bo Zhong 👋  
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="30" style="vertical-align: middle;" />
 Senior iOS Engineer • SwiftUI Architect • Mobile Systems Thinker
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="120" />
+
+
+
 
 
 
